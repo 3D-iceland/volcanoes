@@ -32,3 +32,9 @@ Description: Object to create an impression into back of plaster cast for hangin
 
 ### Wall_mount_20mm_impression.stl
 Description: Object to create an impression into back of plaster cast for hanging on wall. 20mm deep from top of mold frame. 
+
+
+# Slicing of STL files
+3D models are prepared for printing in Ultimaker Cura configured for Crealty Ender Pro printer.  Important: Top thickness has been increased to 1.6mm.
+
+
