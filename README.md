@@ -7,15 +7,15 @@ Eruption started at 20:45 GMT 19. March 2021 in Fagradalsfjall, e. Beautiful val
 ## Files
 
 ### Fagradalsfjall_large.stl
-Description: 3D relief map of area around Fagradalsfjall. Area from North of Keilir, past Fagradalsfjall to shoreline.
-Size: 146.84mm x 146.84mm 
-Vertical exaggeration: x 2.00
-Scale: 1:75000
+Description: 3D relief map of area around Fagradalsfjall. Area from North of Keilir, past Fagradalsfjall to shoreline.  
+Size: 146.84mm x 146.84mm  
+Vertical exaggeration: x 2.00 
+Scale: 1:75000  
 
 ### Fagradalsfjall_large_inv.stl
-Description: Inverted 3D relief map of area around Fagradalsfjall for casting. Area from North of Keilir, past Fagradalsfjall to shoreline.
-Size: 146.84mm x 146.84mm 
-Vertical exaggeration: x 2.00
+Description: Inverted 3D relief map of area around Fagradalsfjall for casting. Area from North of Keilir, past Fagradalsfjall to shoreline.  
+Size: 146.84mm x 146.84mm  
+Vertical exaggeration: x 2.00  
 Scale: 1:75000
 
 ### Mold_frame__1piece_146_84mm.stl
