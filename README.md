@@ -34,7 +34,7 @@ Description: Object to create an impression into back of plaster cast for hangin
 
 
 ## Slicing of STL files
-3D models are prepared for printing in Ultimaker Cura configured for Crealty Ender Pro printer.  Important: Top thickness has been increased to 1.6mm.
+3D models are prepared for printing in Ultimaker Cura configured for Crealty Ender Pro printer.  Important: Top thickness has been doubled from 0.8mm to 1.6mm. 
 
 ## Mold casting
 
