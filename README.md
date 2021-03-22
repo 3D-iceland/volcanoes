@@ -8,17 +8,29 @@ The Digital Elevation Model used here is based on the ArcticDEM dataset created 
 
 ## Files
 
-### Fagradalsfjall_large.stl
+### Fagradalsfjall_largearea.stl
 Description: 3D relief map of area around Fagradalsfjall. Area from North of Keilir, past Fagradalsfjall to shoreline.  
 Size: 146.84mm x 146.84mm  
 Vertical exaggeration: x 2.00  
 Scale: 1:75000  
 
-### Fagradalsfjall_large_inv.stl
+### Fagradalsfjall_largearea_inverted.stl
 Description: Inverted 3D relief map of area around Fagradalsfjall for casting. Area from North of Keilir, past Fagradalsfjall to shoreline.  
 Size: 146.84mm x 146.84mm  
 Vertical exaggeration: x 2.00  
 Scale: 1:75000
+
+### Fagradalsfjall_smallarea.stl
+Description: 3D relief map of area of Fagradalsfjall eruption for casting. Closeup of area.   
+Size: 146.84mm x 146.84mm  
+Vertical exaggeration: x 1.25
+Scale: 1:20455  
+
+### Fagradalsfjall_smallarea_inverted.stl
+Description: Inverted 3D relief map of area of Fagradalsfjall eruption for casting. Closeup of area. 
+Size: 146.84mm x 146.84mm  
+Vertical exaggeration: x 1.25  
+Scale: 1:20455
 
 ### Mold_frame_4piece.stl
 Description: Mold frame for casting relief maps. Four pieces needed to create a frame.  Fits various sized models. Pieces are fastened together with clamps/clothes pins.
