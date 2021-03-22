@@ -16,20 +16,20 @@ Scale: 1:75000
 
 ### Fagradalsfjall_largearea_inverted.stl
 Description: Inverted 3D relief map of area around Fagradalsfjall for casting. Area from North of Keilir, past Fagradalsfjall to shoreline.  
-Size: 146.84mm x 146.84mm  
-Vertical exaggeration: x 2.00  
+Size: 146.84mm x 146.84mm    
+Vertical exaggeration: x 2.00    
 Scale: 1:75000
 
 ### Fagradalsfjall_smallarea.stl
-Description: 3D relief map of area of Fagradalsfjall eruption for casting. Closeup of area.   
-Size: 146.84mm x 146.84mm  
-Vertical exaggeration: x 1.25
+Description: 3D relief map of area of Fagradalsfjall eruption for casting. Closeup of area.    
+Size: 146.84mm x 146.84mm   
+Vertical exaggeration: x 1.25  
 Scale: 1:20455  
 
 ### Fagradalsfjall_smallarea_inverted.stl
-Description: Inverted 3D relief map of area of Fagradalsfjall eruption for casting. Closeup of area. 
-Size: 146.84mm x 146.84mm  
-Vertical exaggeration: x 1.25  
+Description: Inverted 3D relief map of area of Fagradalsfjall eruption for casting. Closeup of area.   
+Size: 146.84mm x 146.84mm   
+Vertical exaggeration: x 1.25   
 Scale: 1:20455
 
 ### Mold_frame_4piece.stl
