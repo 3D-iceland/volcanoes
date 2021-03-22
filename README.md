@@ -2,9 +2,9 @@
 
 Models of Icelandic volcanoes for 3D printing of relief maps.  
 
-Eruption started at 20:45 GMT 19. March 2021 in Fagradalsfjall, e. Beautiful valley mountain, on Reykjanes peninsula Iceland.  
+An volcanic eruption started at 20:45 GMT 19. March 2021 in the Geldingadalir valley at Fagradalsfjall, e. 'Beautiful valley mountain', on the Reykjanes peninsula, South-West Iceland.
 
-Digital Elevation Model based on ArcticDEM dataset created from DigitalGlobe, Inc., imagery and funded under National Science Foundation awards 1043681, 1559691, and 1542736. STL files created using QGIS software utilizing DEMto3D plugin.  Slicing of 3D maps and mirroring of inverted relief maps done in Ultimaker Cura.
+The Digital Elevation Model used here is based on the ArcticDEM dataset created from DigitalGlobe, Inc., imagery and funded under National Science Foundation awards 1043681, 1559691, and 1542736. The DEM was manually adjusted to remove errors and gaps in the data. STL files were created using QGIS software utilising the DEMto3D plugin. Slicing of 3D maps and mirroring of the inverted relief maps were realised in Ultimaker Cura.
 
 ## Files
 
