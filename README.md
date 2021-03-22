@@ -40,7 +40,9 @@ Description: Object to create an impression into back of plaster cast for hangin
 ## Mold casting
 
 ![](images/Mold_assembly.jpg | width=100)
+
 ![](https://github.com/3D-iceland/volcanoes/blob/46ab942ddd6b97cfec2fa9f422108cb24bb2a927/images/Mold_assembly.jpg| width=100)
+
 [[./images/Mold_assembly.jpg]]
 
 
