@@ -39,4 +39,10 @@ Description: Object to create an impression into back of plaster cast for hangin
 
 ## Mold casting
 
-![](images/Mold_assembly.jpg | width=100)
+![](/images/Mold_assembly.jpg | width=100)
+
+[[/images/Mold_assembly.jpg]]
+
+
+
+
