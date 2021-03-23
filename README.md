@@ -1,6 +1,6 @@
 # volcanoes
 
-Models of Icelandic volcanoes for 3D printing of relief maps.  
+Models of Icelandic volcanoes for 3D printing of relief maps and molds for plaster casting.  
 
 An volcanic eruption started at 20:45 GMT 19. March 2021 in the Geldingadalir valley at Fagradalsfjall, e. 'Beautiful valley mountain', on the Reykjanes peninsula, South-West Iceland.
 
