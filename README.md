@@ -48,6 +48,9 @@ Scale: 1:20455
 ### Mold_frame_4piece.stl
 Description: Mold frame for casting relief maps. Four pieces needed to create a frame.  Fits various sized models. Pieces are fastened together with clamps/clothes pins.
 
+### Mold_frame__1piece_146_84mm.stl
+Description: Mold frame for casting relief maps. Single piece mold frame. Fits only models 146.84mm x 146.84mm.
+
 ### Wall_mount_10mm_impression.stl
 Description: Object to create an 4mm x 30mm impression into back of plaster cast for hanging on wall. 10mm deep from top of mold frame. 
 
