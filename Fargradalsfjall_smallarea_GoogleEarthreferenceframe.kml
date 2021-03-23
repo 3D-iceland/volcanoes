@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>zoomsmall.kml</name>
+	<Folder>
+		<name>zoomsmall</name>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>ff0000ff</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-22.3430050353066,63.9494751835473,0 -22.118918423729,63.9545155579323,0 -22.1078914047509,63.85596860120189,0 -22.3311885557925,63.85094612438551,0 -22.3430050353066,63.9494751835473,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
