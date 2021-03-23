@@ -60,6 +60,7 @@ Description: Object to create an 4mm x 30mm impression into back of plaster cast
 
 ## GoogleEarth overview
 The following image shows an overview of the three zoom areas created for the Fagradalsfjall eruption site. Each rectange relates to the KML file available for download in this repository to allow an exploration of the area in GoogleEarth and other GIS tools.
+
 ![](images/Fagradalsfjall_GoogleEarthReference.jpg)
 
 ## Slicing of STL files
