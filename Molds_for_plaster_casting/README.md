@@ -20,7 +20,7 @@
 
 
 # Files
-
+Below are descrtiptions of STL files for 3D printing. Load the STL files into a slicer software, for example Ultimaker Cura. The slicer software produces printer specific instructions on creating 3D printed objects, a .gcode file.
 
 ## Inverted and mirrored models
 
