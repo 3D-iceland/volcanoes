@@ -13,7 +13,7 @@
 9. Remove mold, sides first, then top. The mold should come off easily. If it doesn‘t, give it more time. As a last resort you can wedge the top off with a flat tool, but this may leave an impression.
 10. Discard excess hardened plaster. Clean mold pieces in water. Important! Do not use too hot water or the PLA plastic will warp/shrink.
 
-![](images/Mold_assembly.jpg)
+![](../images/Mold_assembly.jpg)
 
 
 # Files
