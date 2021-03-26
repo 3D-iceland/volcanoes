@@ -1,7 +1,8 @@
 
 # Mold casting
 
-Never pour unhardened plaster into the sink or it will clog your drains
+- Never pour unhardened plaster into the sink or it will clog your drains.
+- Do not clean 3D printed object in warm water or the PLA plastic will warp/shrink.
 
 
 1. Prepare everything beforehand. Have paper towels on hand.
