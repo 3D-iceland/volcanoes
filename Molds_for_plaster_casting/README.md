@@ -58,8 +58,8 @@ Description: Mold frame for casting relief maps. Four pieces needed to create a 
 
 ## Wall mount impressions
 
-### [Wall_mount_15mm_impression.stl](Wall_mount_15mm_impression.stl)
+### [Wall_mount_impression_15mm.stl](Wall_mount_impression_15mm.stl)
 Description: Object to create an 4mm x 30mm impression into back of plaster cast for hanging on wall. 15mm deep from top of mold frame. 
 
-### [Wall_mount_20mm_impression.stl](Wall_mount_20mm_impression.stl)
+### [Wall_mount_impression_20mm.stl](Wall_mount_impression_20mm.stl)
 Description: Object to create an 4mm x 30mm impression into back of plaster cast for hanging on wall. 20mm deep from top of mold frame. 
