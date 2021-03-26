@@ -51,15 +51,15 @@ Scale: 1:20455
 ## Mold frames
 
 ### [Mold_frame_1piece_146_84mm.stl](Mold_frame_1piece_146_84mm.stl)
-Description: Mold frame for casting relief maps. Single piece mold frame. Fits only models 146.84mm x 146.84mm.
+Mold frame for casting relief maps. Single piece mold frame. Fits only models 146.84mm x 146.84mm.
 
 ### [Mold_frame_4piece.stl](Mold_frame_4piece.stl)
-Description: Mold frame for casting relief maps. Four pieces needed to create a frame.  Fits various sized models. Pieces are fastened together with clamps/clothes pins.
+Mold frame for casting relief maps. Four pieces needed to create a frame.  Fits various sized models. Pieces are fastened together with clamps/clothes pins.
 
 ## Wall mount impressions
 
 ### [Wall_mount_impression_15mm.stl](Wall_mount_impression_15mm.stl)
-Description: Object to create an 4mm x 30mm impression into back of plaster cast for hanging on wall. 15mm deep from top of mold frame. 
+Object to create an 4mm x 30mm impression into back of plaster cast for hanging on wall. 15mm deep from top of mold frame. 
 
 ### [Wall_mount_impression_20mm.stl](Wall_mount_impression_20mm.stl)
-Description: Object to create an 4mm x 30mm impression into back of plaster cast for hanging on wall. 20mm deep from top of mold frame. 
+Object to create an 4mm x 30mm impression into back of plaster cast for hanging on wall. 20mm deep from top of mold frame. 
