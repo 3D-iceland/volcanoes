@@ -29,7 +29,7 @@ Below are descrtiptions of STL files for 3D printing. Load the STL files into a 
 
 These models can be used to make casts of the area, for example in plaster of paris. The models are all the same size and can be cast using a single rectangular frame.  
 
-### [Fagradalsfjall_largearea_inverted.stl](Molds_for_plaster_casting/Fagradalsfjall_largearea_inverted.stl)
+### [Fagradalsfjall_largearea.stl](Molds_for_plaster_casting/Fagradalsfjall_largearea_inverted.stl)
 Description: Inverted 3D relief map of area around Fagradalsfjall for casting. Area from North of Keilir, past Fagradalsfjall to shoreline.  
 Size: 146.84mm x 146.84mm    
 Vertical exaggeration: x 2.00    
