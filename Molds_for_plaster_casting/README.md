@@ -1,4 +1,7 @@
 
+
+![](../images/plaster_of_paris_small_medium.jpg)
+
 # Mold casting
 
 - Never pour unhardened plaster into the sink or it will clog your drains.
