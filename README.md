@@ -1,4 +1,4 @@
-# volcanoes
+# Volcanoes
 
 Models of Icelandic volcanoes for 3D printing of relief maps and molds for plaster casting.  
 
