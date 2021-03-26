@@ -6,9 +6,9 @@ An volcanic eruption started at 20:45 GMT 19. March 2021 in the Geldingadalir va
 
 The Digital Elevation Model used here is based on the ArcticDEM dataset created from DigitalGlobe, Inc., imagery and funded under National Science Foundation awards 1043681, 1559691, and 1542736. The DEM was manually adjusted to remove errors and gaps in the data. STL files were created using QGIS software utilising the DEMto3D plugin. Slicing of 3D maps and mirroring of the inverted relief maps were realised in Ultimaker Cura.
 
-## Files
+## Relief map .stl files
 
-### Fagradalsfjall_largearea.stl
+### [Fagradalsfjall_largearea.stl](Fagradalsfjall_largearea.stl)
 Description: 3D relief map of area around Fagradalsfjall. Area from North of Keilir, past Fagradalsfjall to shoreline.  
 Size: 146.84mm x 146.84mm  
 Vertical exaggeration: x 2.00  
@@ -20,7 +20,7 @@ Size: 146.84mm x 146.84mm
 Vertical exaggeration: x 1.5  
 Scale: 1:40907  
 
-### Fagradalsfjall_smallarea.stl
+### [Fagradalsfjall_smallarea.stl](Fagradalsfjall_smallarea.stl)
 Description: 3D relief map of area of Fagradalsfjall eruption. Closeup of area.    
 Size: 146.84mm x 146.84mm   
 Vertical exaggeration: x 1.25  
