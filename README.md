@@ -29,8 +29,8 @@ Scale: 1:20455
 ## GoogleEarth overview
 The following image shows an overview of the three zoom areas created for the Fagradalsfjall eruption site. Each rectange relates to the KML file available for download in this repository to allow an exploration of the area in GoogleEarth and other GIS tools.
 
-[Small area](KLM_refererences/Fagradalsfjall_smallarea_GoogleEarthreferenceframe.kml)
-[Medium area](KLM_refererences/Fagradalsfjall_mediumarea_GoogleEarthreferenceframe.kml)
+[Small area](KLM_refererences/Fagradalsfjall_smallarea_GoogleEarthreferenceframe.kml)  
+[Medium area](KLM_refererences/Fagradalsfjall_mediumarea_GoogleEarthreferenceframe.kml)  
 [Large area](KLM_refererences/Fagradalsfjall_largearea_GoogleEarthreferenceframe.kml)
 
 ![](images/Fagradalsfjall_GoogleEarthReference.jpg)
