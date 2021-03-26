@@ -35,7 +35,7 @@ The following image shows an overview of the three zoom areas created for the Fa
 3D models are prepared for printing in Ultimaker Cura configured for Crealty Ender Pro printer.  Important: Top thickness has been doubled from 0.8mm to 1.6mm. 
 
 ## Plaster casting
-See [Moldfor_plaster_casting](Molds_for_plaster_casting/) folder.
+See instructions and files in [Molds_for_plaster_casting](Molds_for_plaster_casting/) folder.
 
 
 ## Licence
