@@ -1,6 +1,6 @@
 
 
-![](../images/plaster_of_paris_small_medium.jpg)
+![](../images/plaster_of_paris_small_medium_b.jpg)
 
 # Mold casting
 
