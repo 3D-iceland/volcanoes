@@ -36,13 +36,13 @@ Vertical exaggeration: x 2.00
 Scale: 1:75000
 
 
-### Fagradalsfjall_mediumarea_inverted.stl
+### [Fagradalsfjall_mediumarea_inverted.stl](Fagradalsfjall_mediumarea_inverted.stl)
 Description: Inverted relief map of Fagradalsfjall for casting. Area encompassing all of Fagradalsfjall.  
 Size: 146.84mm x 146.84mm   
 Vertical exaggeration: x 1.5  
 Scale: 1:40907  
 
-### Fagradalsfjall_smallarea_inverted.stl
+### [Fagradalsfjall_smallarea_inverted.stl](Fagradalsfjall_smallarea_inverted.stl)
 Description: Inverted 3D relief map of area of Fagradalsfjall eruption for casting. Closeup of area.   
 Size: 146.84mm x 146.84mm   
 Vertical exaggeration: x 1.25   
