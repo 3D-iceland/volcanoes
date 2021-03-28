@@ -37,7 +37,7 @@ The following image shows an overview of the three zoom areas created for the Fa
 
 
 ## Slicing of STL files
-3D models are prepared for printing in Ultimaker Cura configured for Crealty Ender Pro printer.  Important: Top thickness has been doubled from 0.8mm to 1.6mm. 
+3D models are prepared for printing in Ultimaker Cura configured for Crealty Ender Pro printer.  Important: Top and bottom thickness has been doubled from 0.8mm to 1.6mm. Top thickness or else elevation lines may misprint in 3D printer. If making plaster molds, bottom thickness needs to be increased so the model does not deform when released from mold frame.
 
 ## Plaster casting
 See instructions and files in [Molds_for_plaster_casting](Molds_for_plaster_casting/) folder.
