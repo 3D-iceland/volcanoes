@@ -29,12 +29,13 @@ Below are descrtiptions of STL files for 3D printing. Load the STL files into a 
 
 These models can be used to make casts of the area, for example in plaster of paris. The models are all the same size and can be cast using a single rectangular frame.  
 
-### [Fagradalsfjall_largearea.stl](Fagradalsfjall_largearea_inverted.stl)
-Inverted 3D relief map of area around Fagradalsfjall for casting. Area from North of Keilir, past Fagradalsfjall to shoreline.  
-Size: 146.84mm x 146.84mm    
-Vertical exaggeration: x 2.00    
-Scale: 1:75000
+### [Fagradalsfjall_smallarea_inverted.stl](Fargradalsfjall_smallarea_inverted.stl)
+Inverted 3D relief map of area of Fagradalsfjall eruption for casting. Closeup of area.   
+Size: 146.84mm x 146.84mm   
+Vertical exaggeration: x 1.25   
+Scale: 1:20455
 
+[![](../images/Fagradalsfjall_smallarea_stl.png)](Fagradalsfjall_smallarea.stl)
 
 ### [Fagradalsfjall_mediumarea_inverted.stl](Fagradalsfjall_mediumarea_inverted.stl)
 Inverted relief map of Fagradalsfjall for casting. Area encompassing all of Fagradalsfjall.  
@@ -42,24 +43,39 @@ Size: 146.84mm x 146.84mm
 Vertical exaggeration: x 1.5  
 Scale: 1:40907  
 
-### [Fagradalsfjall_smallarea_inverted.stl](Fargradalsfjall_smallarea_inverted.stl)
-Inverted 3D relief map of area of Fagradalsfjall eruption for casting. Closeup of area.   
-Size: 146.84mm x 146.84mm   
-Vertical exaggeration: x 1.25   
-Scale: 1:20455
+[![](../images/Fagradalsfjall_mediumarea_stl.png)](Fagradalsfjall_mediumarea.stl)
+
+### [Fagradalsfjall_largearea.stl](Fagradalsfjall_largearea_inverted.stl)
+Inverted 3D relief map of area around Fagradalsfjall for casting. Area from North of Keilir, past Fagradalsfjall to shoreline.  
+Size: 146.84mm x 146.84mm    
+Vertical exaggeration: x 2.00    
+Scale: 1:75000
+
+[![](../images/Fagradalsfjall_largearea_stl.png)](Fagradalsfjall_largearea.stl)
 
 ## Mold frames
 
 ### [Mold_frame_1piece_146_84mm.stl](Mold_frame_1piece_146_84mm.stl)
 Mold frame for casting relief maps. Single piece mold frame. Fits only models 146.84mm x 146.84mm.
 
+[![](../images/Mold_frame_1piece_146_84mm_stl.png)](Mold_frame_1piece_146_84mm.stl)
+
+
 ### [Mold_frame_4piece.stl](Mold_frame_4piece.stl)
 Mold frame for casting relief maps. Four pieces needed to create a frame.  Fits various sized models. Pieces are fastened together with clamps/clothes pins.
+
+[![](../images/Mold_frame4piece_stl.png)](Mold_frame_4piece.stl)
+
 
 ## Wall mount impressions
 
 ### [Wall_mount_impression_15mm.stl](Wall_mount_impression_15mm.stl)
 Object to create an 4mm x 30mm impression into back of plaster cast for hanging on wall. 15mm deep from top of mold frame. 
 
+[![](../images/Wall_mount_impression_15mm_stl.png)](Wall_mount_impression_15mm.stl)
+
+
 ### [Wall_mount_impression_20mm.stl](Wall_mount_impression_20mm.stl)
 Object to create an 4mm x 30mm impression into back of plaster cast for hanging on wall. 20mm deep from top of mold frame. 
+
+[![](../images/Wall_mount_impression_20mm_stl.png)](Wall_mount_impression_20mm.stl)
