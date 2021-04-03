@@ -16,7 +16,7 @@ STL files for 3D printing 15 x 15 cm relief map models at three zoom levels. See
 ## Plaster casting
 [![](images/plaster_of_paris_small_medium_c.jpg)](Molds_for_plaster_casting/)
 
-STL files for 3D printing plaster of paris casting molds and accessories. See instructions and files in [Molds_for_plaster_casting](Molds_for_plaster_casting/) folder.  Timelapse instructional [YouTube video](http://www.youtube.com/watch?v=xSu4fhIfEEE) below.
+STL files for 3D printing plaster of paris casting molds and accessories. Files and instructions in [Molds_for_plaster_casting](Molds_for_plaster_casting/) folder.  Timelapse instructional [YouTube video](http://www.youtube.com/watch?v=xSu4fhIfEEE) below.
 
 [![](http://img.youtube.com/vi/xSu4fhIfEEE/0.jpg)](http://www.youtube.com/watch?v=xSu4fhIfEEE "Timelapse of plaster casting Fagradalsfjall")
 
@@ -24,14 +24,14 @@ STL files for 3D printing plaster of paris casting molds and accessories. See in
 ## Chocolate molds
 [![](images/chocolates_c.jpg)](Chocolate_molds/)
 
-STL files for 3D printing molds for casting silicone molds for chocolate making. See files in [Chocolate_molds](Chocolate_molds/) folder. 
+STL files for 3D printing molds for casting silicone molds for chocolate making. Files in [Chocolate_molds](Chocolate_molds/) folder. 
 
 
 
 ## GoogleEarth overview
 [![](images/KLM_ref_c.jpg)](KLM_refererences/)
 
-KLM files for loading into [Google Earth](https://earth.google.com/web/). See files and instructions in [KLM_refererences](KLM_refererences/) folder. 
+KLM files for loading into [Google Earth](https://earth.google.com/web/). Files and instructions in [KLM_refererences](KLM_refererences/) folder. 
 
 
 ## Slicing of STL files
