@@ -14,7 +14,7 @@ STL files for 3D printing 15 x 15 cm relief map models at three zoom levels. See
 ## Plaster casting
 ![](images/plaster_of_paris_small_medium_c.jpg)
 
-STL files for 3D printing plaster of paris casting molds and accessories. See instructions and files in [Molds_for_plaster_casting](Molds_for_plaster_casting/) folder.  Youtube video below.
+STL files for 3D printing plaster of paris casting molds and accessories. See instructions and files in [Molds_for_plaster_casting](Molds_for_plaster_casting/) folder.  [YouTube video](http://www.youtube.com/watch?v=xSu4fhIfEEE) below.
 
 [![](http://img.youtube.com/vi/xSu4fhIfEEE/0.jpg)](http://www.youtube.com/watch?v=xSu4fhIfEEE "Timelapse of plaster casting Fagradalsfjall")
 
