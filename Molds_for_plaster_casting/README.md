@@ -35,7 +35,7 @@ Size: 146.84mm x 146.84mm
 Vertical exaggeration: x 1.25   
 Scale: 1:20455
 
-[![](../images/Fagradalsfjall_smallarea_stl.png)](Fagradalsfjall_smallarea.stl)
+[![](../images/Fagradalsfjall_smallarea_inverted_stl.png)](Fagradalsfjall_smallarea_inverted.stl)
 
 ### [Fagradalsfjall_mediumarea_inverted.stl](Fagradalsfjall_mediumarea_inverted.stl)
 Inverted relief map of Fagradalsfjall for casting. Area encompassing all of Fagradalsfjall.  
@@ -43,7 +43,7 @@ Size: 146.84mm x 146.84mm
 Vertical exaggeration: x 1.5  
 Scale: 1:40907  
 
-[![](../images/Fagradalsfjall_mediumarea_stl.png)](Fagradalsfjall_mediumarea.stl)
+[![](../images/Fagradalsfjall_mediumarea_inverted_stl.png)](Fagradalsfjall_mediumarea_inverted.stl)
 
 ### [Fagradalsfjall_largearea.stl](Fagradalsfjall_largearea_inverted.stl)
 Inverted 3D relief map of area around Fagradalsfjall for casting. Area from North of Keilir, past Fagradalsfjall to shoreline.  
@@ -51,7 +51,7 @@ Size: 146.84mm x 146.84mm
 Vertical exaggeration: x 2.00    
 Scale: 1:75000
 
-[![](../images/Fagradalsfjall_largearea_stl.png)](Fagradalsfjall_largearea.stl)
+[![](../images/Fagradalsfjall_largearea_inverted_stl.png)](Fagradalsfjall_largearea_inverted.stl)
 
 ## Mold frames
 
