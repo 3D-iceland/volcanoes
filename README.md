@@ -29,7 +29,7 @@ STL files for 3D printing molds for casting silicone molds for chocolate making.
 ## GoogleEarth overview
 ![](images/KLM_ref_c.jpg)
 
-KLM files for loading into [Google Earth](https://earth.google.com/web/). See files in [KLM_refererences](KLM_refererences/) folder. 
+KLM files for loading into [Google Earth](https://earth.google.com/web/). See files and instructions in [KLM_refererences](KLM_refererences/) folder. 
 
 
 ## Slicing of STL files
