@@ -7,16 +7,17 @@ An volcanic eruption started at 20:45 GMT 19. March 2021 in the Geldingadalir va
 
 ![](images/relief_map_c.jpg)
 ## Relief maps
+![](images/relief_map_c.jpg)
 See instructions and files in [Relief_maps](Relief_maps/) folder.
 
-![](images/plaster_of_paris_small_medium_c.jpg)
 ## Plaster casting
+![](images/plaster_of_paris_small_medium_c.jpg)
 See instructions and files in [Molds_for_plaster_casting](Molds_for_plaster_casting/) folder.  Youtube video below.
 
 [![](http://img.youtube.com/vi/xSu4fhIfEEE/0.jpg)](http://www.youtube.com/watch?v=xSu4fhIfEEE "Timelapse of plaster casting Fagradalsfjall")
 
-![](images/KLM_ref_c.jpg)
 ## GoogleEarth overview
+![](images/KLM_ref_c.jpg)
 See files in [KLM_refererences](KLM_refererences/) folder. 
 
 
