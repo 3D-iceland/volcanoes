@@ -5,6 +5,10 @@ Models of Icelandic volcanoes for 3D printing of relief maps and molds for plast
 An volcanic eruption started at 20:45 GMT 19. March 2021 in the Geldingadalir valley at Fagradalsfjall, e. 'Beautiful valley mountain', on the Reykjanes peninsula, South-West Iceland.
 
 
+![](images/relief_map_c.jpg)
+## Plaster casting
+See instructions and files in [Relief_maps](Reliec_maps/) folder.
+
 ![](images/KLM_ref_c.jpg)
 ## GoogleEarth overview
 See files in [KLM_refererences](KLM_refererences/) folder. 
