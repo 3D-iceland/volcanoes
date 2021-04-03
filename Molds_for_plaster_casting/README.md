@@ -19,8 +19,6 @@
 9. Remove mold, sides first, then top. The mold should come off easily. If it doesn‘t, give it more time. As a last resort you can wedge the top off with a flat tool, but this may leave an impression.
 10. Discard excess hardened plaster. Clean mold pieces in water. Important! Do not use too hot water or the PLA plastic will warp/shrink.
 
-![](../images/Mold_assembly.jpg)
-
 
 # Files
 Below are descrtiptions of STL files for 3D printing. Load the STL files into a slicer software, for example Ultimaker Cura. The slicer software produces printer specific instructions on creating 3D printed objects, a .gcode file.
@@ -35,7 +33,7 @@ Size: 146.84mm x 146.84mm
 Vertical exaggeration: x 1.25   
 Scale: 1:20455
 
-[![](../images/Fagradalsfjall_smallarea_inverted_stl.png)](Fagradalsfjall_smallarea_inverted.stl)
+[![](../images/Fargradalsfjall_smallarea_inverted_stl.png)](Fagradalsfjall_smallarea_inverted.stl)
 
 ### [Fagradalsfjall_mediumarea_inverted.stl](Fagradalsfjall_mediumarea_inverted.stl)
 Inverted relief map of Fagradalsfjall for casting. Area encompassing all of Fagradalsfjall.  
