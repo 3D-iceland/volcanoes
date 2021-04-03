@@ -38,6 +38,9 @@ KLM files for loading into [Google Earth](https://earth.google.com/web/). See fi
 
 3D models are prepared for printing in Ultimaker Cura configured for Crealty Ender Pro printer.  Important: Top and bottom thickness has been doubled from 0.8mm to 1.6mm. Top thickness needs to be increased or else elevation lines may misprint in 3D printer. If making plaster molds, bottom thickness also needs to be increased so the model does not deform when pressed to release from mold frame.
 
+## 3D printing
+For molds it is worth it to print at highest resolution possible. For example Crealty Ender 3 printer normal print quality is 0.2mm resolution, but at highest print quality the resolution is 0.12mm. 
+
 ## Credits
 
 The Digital Elevation Model used here is based on the ArcticDEM dataset created from DigitalGlobe, Inc., imagery and funded under National Science Foundation awards 1043681, 1559691, and 1542736. The DEM was manually adjusted to remove errors and gaps in the data. STL files were created using QGIS software utilising the DEMto3D plugin. Slicing of 3D maps and mirroring of the inverted relief maps were realised in Ultimaker Cura.
