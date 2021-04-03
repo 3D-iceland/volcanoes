@@ -9,7 +9,7 @@ Models of Icelandic volcanoes for 3D printing of relief maps, molds for plaster 
 
 
 ## Relief maps
-![](images/relief_map_c.jpg)
+[![](images/relief_map_c.jpg)](Relief_maps/)
 
 STL files for 3D printing 15 x 15 cm relief map models at three zoom levels. See instructions and files in [Relief_maps](Relief_maps/) folder.
 
