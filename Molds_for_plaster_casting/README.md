@@ -15,8 +15,8 @@
 5. Oil the form. You can use any cooking oil. Take care to dab excess oil from deep depressions or your mountain peaks will become flat. Oil the sides and also if you plan to make a wall mount depression oil that object too.
 6. Pour in a single spot the plaster mixture. Knock the table to let the mixture settle evenly and remove air bubbles.
 7. If you use wall mounts, lay the wall mount depression on top of the mold. Remember to oil it first or it will get stuck.
-8. Wait for 30-60 minutes.
-9. Remove mold, sides first, then top. The mold should come off easily. If it doesn‘t, give it more time. As a last resort you can wedge the top off with a flat tool, but this may leave an impression.
+8. Wait for 30-60 minutes, until plaster has stopped warming.
+9. Remove mold, sides first. Dry for a little longer before removing the top part. Pull at corners with moderate force, one by one, until mold falls off.  If it doesn‘t, give it more time. As a last resort you can wedge the top off with a flat tool, but this may leave an impression.
 10. Discard excess hardened plaster. Clean mold pieces in water. Important! Do not use too hot water or the PLA plastic will warp/shrink.
 
 
