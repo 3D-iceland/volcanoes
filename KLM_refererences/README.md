@@ -5,4 +5,4 @@ The following image shows an overview of the three zoom areas created for the Fa
 [KLM medium area](KLM_refererences/Fagradalsfjall_mediumarea_GoogleEarthreferenceframe.kml)  
 [KLM large areae](KLM_refererences/Fargradalsfjall_largelarea_GoogleEarthreferenceframe.kml)
 
-![](images/Fagradalsfjall_GoogleEarthReference.jpg)
+![](../images/Fagradalsfjall_GoogleEarthReference.jpg)
