@@ -1,3 +1,5 @@
+![](../images/relief_map_b.jpg)
+
 ## Relief map .stl files
 
 ### [Fagradalsfjall_largearea.stl](Fagradalsfjall_largearea.stl)
