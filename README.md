@@ -14,7 +14,7 @@ Models of Icelandic volcanoes for 3D printing of relief maps, molds for plaster 
 STL files for 3D printing 15 x 15 cm relief map models at three zoom levels. See instructions and files in [Relief_maps](Relief_maps/) folder.
 
 ## Plaster casting
-![](images/plaster_of_paris_small_medium_c.jpg)
+[![](images/plaster_of_paris_small_medium_c.jpg)](Molds_for_plaster_casting/)
 
 STL files for 3D printing plaster of paris casting molds and accessories. See instructions and files in [Molds_for_plaster_casting](Molds_for_plaster_casting/) folder.  Timelapse instructional [YouTube video](http://www.youtube.com/watch?v=xSu4fhIfEEE) below.
 
@@ -22,14 +22,14 @@ STL files for 3D printing plaster of paris casting molds and accessories. See in
 
 
 ## Chocolate molds
-![](images/chocolates_c.jpg)
+[![](images/chocolates_c.jpg)](Chocolate_molds/)
 
 STL files for 3D printing molds for casting silicone molds for chocolate making. See files in [Chocolate_molds](Chocolate_molds/) folder. 
 
 
 
 ## GoogleEarth overview
-![](images/KLM_ref_c.jpg)
+[![](images/KLM_ref_c.jpg)](KLM_refererences/)
 
 KLM files for loading into [Google Earth](https://earth.google.com/web/). See files and instructions in [KLM_refererences](KLM_refererences/) folder. 
 
