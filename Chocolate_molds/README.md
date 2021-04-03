@@ -9,7 +9,7 @@ Mold for casting silicone mold for casting a single chocolate piece.
 Size of print: approx 105mm x 105mm    
 Size of chocolate: approx 86mm x 86mm
 
-![](../images/choco4pieces_stl.png)
+[![](../images/choco_4pieces_stl.png)](choco_4pieces.stl)
 
 ### [choco4pieces.stl](choco4pieces.stl)
 
@@ -17,4 +17,4 @@ Mold for casting silicone mold for casting four chocolate pieces. One large area
 Size of print: approx 105mm x 105mm     
 Size of chocolate: approx 40mm x 40mm
 
-[![](../images/choco1piece_medium_stl.png)](choco4pieces.stl)
+[![](../images/choco4pieces_stl.png)](choco_4pieces.stl)
