@@ -9,7 +9,7 @@ An volcanic eruption started at 20:45 GMT 19. March 2021 in the Geldingadalir va
 ## Relief maps
 ![](images/relief_map_c.jpg)
 
-STL files for 3D printing 15 x 15 cm relief map models at three zoomlevels. See instructions and files in [Relief_maps](Relief_maps/) folder.
+STL files for 3D printing 15 x 15 cm relief map models at three zoom levels. See instructions and files in [Relief_maps](Relief_maps/) folder.
 
 ## Plaster casting
 ![](images/plaster_of_paris_small_medium_c.jpg)
