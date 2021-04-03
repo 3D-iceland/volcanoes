@@ -16,13 +16,14 @@ See instructions and files in [Relief_maps](Relief_maps/) folder.
 
 See instructions and files in [Molds_for_plaster_casting](Molds_for_plaster_casting/) folder.  Youtube video below.
 
+[![](http://img.youtube.com/vi/xSu4fhIfEEE/0.jpg)](http://www.youtube.com/watch?v=xSu4fhIfEEE "Timelapse of plaster casting Fagradalsfjall")
+
 
 ## Chocolate molds
 ![](images/chocolates_c.jpg)
 
 See instructions and files in [Chocolate_molds](Chocolate_molds/) folder. 
 
-[![](http://img.youtube.com/vi/xSu4fhIfEEE/0.jpg)](http://www.youtube.com/watch?v=xSu4fhIfEEE "Timelapse of plaster casting Fagradalsfjall")
 
 
 ## GoogleEarth overview
