@@ -22,7 +22,7 @@ STL files for 3D printing plaster of paris casting molds and accessories. See in
 ## Chocolate molds
 ![](images/chocolates_c.jpg)
 
-STL files for 3D printing molds for casting silicone molds for chocolate making. See instructions and files in [Chocolate_molds](Chocolate_molds/) folder. 
+STL files for 3D printing molds for casting silicone molds for chocolate making. See files in [Chocolate_molds](Chocolate_molds/) folder. 
 
 
 
