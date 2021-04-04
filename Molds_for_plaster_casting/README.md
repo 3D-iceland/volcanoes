@@ -24,6 +24,8 @@
 9. Remove mold, sides first. Dry for a little longer before removing the top part. Pull at corners with moderate force, one by one, until mold falls off.  If it doesn‘t, give it more time. As a last resort you can wedge the top off with a flat tool, but this may leave an impression.
 10. Discard excess hardened plaster. Clean mold pieces in water. Important! Do not use hot water or the PLA plastic will warp/shrink.
 
+[![](http://img.youtube.com/vi/xSu4fhIfEEE/0.jpg)](http://www.youtube.com/watch?v=xSu4fhIfEEE "Timelapse of plaster casting Fagradalsfjall")
+
 
 ## Files
 Below are descriptions of STL files for 3D printing. Load the STL files into a slicer software, for example Ultimaker Cura. The slicer software produces printer specific instructions on creating 3D printed objects, a .gcode file.
