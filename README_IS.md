@@ -1,3 +1,4 @@
+![](images/eldgos02_b.jpg)
 # Eldfjöll
 [English](README.md)
 
