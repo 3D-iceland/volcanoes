@@ -1,4 +1,5 @@
 # Eldfjöll
+[English](README.md)
 
 *Eldgos hófst kl 20:45, 19. mars 2021 í Geldingadölum Fagradalsfjalls
 á Reykjanesi. Eldgosið stendur enn yfir.*
@@ -16,33 +17,30 @@ Háskóla Íslands.
 STL skrár til að 3D prenta 15 x 15 cm upphleypt kort með mismikilli
 þysjun. Skrár og upplýsingar í [Relief_maps](Relief_maps/) möppu.
 
-## Plaster casting
+## Gifs afsteypur
 [![](images/plaster_of_paris_small_medium_c.jpg)](Molds_for_plaster_casting/)
 
-STL files for 3D printing plaster of paris casting molds and accessories. Files and instructions in [Molds_for_plaster_casting](Molds_for_plaster_casting/) folder.  Timelapse instructional [YouTube video](http://www.youtube.com/watch?v=xSu4fhIfEEE) below.
+STL skrár til að 3D prenta mót og fylgihluti til að búa til gifsafsteypur ca. 15cm x 15 cm að stærð. Skrár og leiðbeiningar í [Molds_for_plaster_casting](Molds_for_plaster_casting/) möppu. [YouTube video](http://www.youtube.com/watch?v=xSu4fhIfEEE) hér fyrir neðan.
 
 [![](http://img.youtube.com/vi/xSu4fhIfEEE/0.jpg)](http://www.youtube.com/watch?v=xSu4fhIfEEE "Timelapse of plaster casting Fagradalsfjall")
 
 
-## Chocolate molds
+## Súkkulaði mót
 [![](images/chocolates_c.jpg)](Chocolate_molds/)
 
-STL files for 3D printing molds for casting silicone molds for chocolate making. Files in [Chocolate_molds](Chocolate_molds/) folder. 
+STL skrár til að prenta mót til að steypa silikon mót. Silikon mót má nota til að búa til súkkulaði afsteypur. Sjá skrár í [Chocolate_molds](Chocolate_molds/) möppu. 
 
-
-
-## GoogleEarth overview
+## Google Earth 
 [![](images/KLM_ref_c.jpg)](KLM_refererences/)
 
-KLM files for loading into [Google Earth](https://earth.google.com/web/). Files and instructions in [KLM_refererences](KLM_refererences/) folder. 
+KLM skrár til að hlaða í [Google Earth web](https://earth.google.com/web/). Skrár og leiðbeiningar í [KLM_refererences](KLM_refererences/) möppu.
 
+## Sneiðing á STL skrám
 
-## Slicing of STL files
+3D líkön eru undirbúin til prentunar í Ultimaker Cura forriti sem er stillt fyrir Crealty Ender Pro þrívíddarprentara. Athugið: Þykkt á toppi og botni hefur verið tvöfölduð úr 0.8mm í 1.6mm. Toppinn þarf að þykkja til að prentarinn ráði við að teikna hæðarlínur. Botninn á afsteypumótum er þykktur til að styrkja hann svo hann afmyndist ekki þegar mótið er losað sundur.
 
-3D models are prepared for printing in Ultimaker Cura configured for Crealty Ender Pro printer.  Important: Top and bottom thickness has been doubled from 0.8mm to 1.6mm. Top thickness needs to be increased or else elevation lines may misprint in 3D printer. If making plaster molds, bottom thickness also needs to be increased so the model does not deform when pressed to release from mold frame.
-
-## 3D printing
-For molds it is worth it to print at highest resolution possible. For example Crealty Ender 3 printer normal print quality is 0.2mm resolution, but at highest print quality the resolution is 0.12mm, resulting in increased detail and finer elevation lines. 
+## 3D prentun
+Fyrir afsteypumót borgar sig að prenta í hæstu gæðum mögulegum. Til dæmis prentar Crealty Ender 3 Pro prentarinn venjulega í 0,2mm upplausn, en í hæstu gæðum prentar hann í 1,2mm upplausn. Það tekur lengri tíma, en skilar sér í aukinni upplausn og fínni hæðarlínum.
 
 ## Credits
 
