@@ -42,7 +42,7 @@ KLM skrár til að hlaða í [Google Earth web](https://earth.google.com/web/). 
 ## 3D prentun
 Fyrir afsteypumót borgar sig að prenta í hæstu gæðum mögulegum. Til dæmis prentar Crealty Ender 3 Pro prentarinn venjulega í 0,2mm upplausn, en í hæstu gæðum prentar hann í 0,12mm upplausn. Það tekur lengri tíma, en skilar sér í aukinni upplausn og fínni hæðarlínum.
 
-## Þakkir
+## Tilvísanir
 
 Stafræna hæðarlíkanið (DEM, Digital Elevation Model) sem notað er hér er byggt á ArcticDEM gagnasettinu
 sem er gert úr myndgögnum frá DigitalGlobe, Inc. og kostað af "National
