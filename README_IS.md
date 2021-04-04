@@ -14,7 +14,7 @@ Háskóla Íslands.
 ## Upphleypt kort
 [![](images/relief_map_c.jpg)](Relief_maps/)
 
-STL skrár til að 3D prenta 15 x 15 cm upphleypt kort með mismikilli
+STL skrár til að 3D prenta ca. 15 x 15 cm upphleypt kort með mismikilli
 þysjun. Skrár og upplýsingar í [Relief_maps](Relief_maps/) möppu.
 
 ## Gifs afsteypur
