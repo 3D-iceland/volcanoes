@@ -1,6 +1,6 @@
 ![](../images/chocolates_b.jpg)
 
-# Súkkulaði mót
+# Súkkulaðimót
 [English](README.md)
 
 Afsteypumót til að búa til silikon mót fyrir súkkulaðiafsteypur.
