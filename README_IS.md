@@ -44,7 +44,10 @@ Fyrir afsteypumót borgar sig að prenta í hæstu gæðum mögulegum. Til dæmi
 
 ## Credits
 
-The Digital Elevation Model used here is based on the ArcticDEM dataset created from DigitalGlobe, Inc., imagery and funded under National Science Foundation awards 1043681, 1559691, and 1542736. The DEM was manually adjusted to remove errors and gaps in the data. 
+Stafræna hæðarlíkanið (DEM, Digital Elevation Model) sem notað er hér er byggt á ArcticDEM gagnasettinu
+sem er gert úr myndgögnum frá DigitalGlobe, Inc. og kostað af "National
+Science Foundation awards 1043681, 1559691, 1542736". Hæðarlíkanið var lagfært handvirkt til að fjarlægja villur og göt
+í gögnunum.
 
 STL skrár voru búnar til í QGIS forritinu með DEMto3D viðbót. Sneiðing
 á STL skrám og speglun á viðsnúnum kortum var gerð í Ultimaker
