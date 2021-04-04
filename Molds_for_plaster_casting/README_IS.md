@@ -50,7 +50,7 @@ Hér fyrir neðan eru lýsingar á STL skrám fyrir 3D prentun. Hlaðið STL
 skránum í sneiðingarforrit, t.d. Ultimaker Cura. Sneiðingarforritið
 býr til prentleiðbeiningar sem eru sértækar fyrir 3D prentarann,
 s.k. gcode skrá.
-Þessi líkön eru til að búa til afsteypur af svæðum, til dæmis í
+Þessi viðsnúnu og spegluðu líkön eru til að búa til afsteypur af svæðum, til dæmis í
 gifs. Líkönin eru öll af sömu stærð og má steypa með tilheyrandi ramma.  
 
 ### [Fagradalsfjall_largearea.stl](Fagradalsfjall_largearea_inverted.stl)
