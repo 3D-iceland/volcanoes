@@ -8,6 +8,7 @@
 - Do not clean 3D printed object in warm water or the PLA plastic will warp/shrink.
 
 
+## Instructions
 1. Prepare everything beforehand. Have paper towels on hand. Check if table is level.
 2. Assemble the mold. Take note to orient the mold so that North points away from you. The single piece mold is easier to manage than the four part one. Tape the bottom of the mold to make less of a mess.
 3. Weigh out water and plaster. Use gloves and a mask. Plaster is a very fine dust and you do not want to breathe it in. For one kg of water there should be 1.5 kg plaster added. Water should be cold. The colder the water is the more time you have to manipulate the plaster. To fill one mold I use 300g water against 430g plaster. Weigh them out separately.
@@ -20,7 +21,7 @@
 10. Discard excess hardened plaster. Clean mold pieces in water. Important! Do not use hot water or the PLA plastic will warp/shrink.
 
 
-# Files
+## Files
 Below are descriptions of STL files for 3D printing. Load the STL files into a slicer software, for example Ultimaker Cura. The slicer software produces printer specific instructions on creating 3D printed objects, a .gcode file.
 
 ## Inverted and mirrored models
