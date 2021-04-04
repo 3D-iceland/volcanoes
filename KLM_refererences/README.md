@@ -10,7 +10,7 @@ The following image shows an overview of the three zoom areas created for the Fa
 
 ### Importing KML file into Google Earth
 
-1. Using the web browser on your computer, open [Google Earth](https://earth.google.com/web/).
+1. Using the web browser on your computer, open [Google Earth web](https://earth.google.com/web/).
 2. On the left, click Projects .
-3. Click the New Project button. To add a file directly to your computer, select Import KML File.
+3. Click the New Project button. To add a file, select Import KML File.
 4. Select the KML file you'd like to view.
