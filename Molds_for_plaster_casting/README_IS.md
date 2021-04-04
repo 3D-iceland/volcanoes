@@ -28,7 +28,8 @@
    blandan að vera nógu þykk. Það þarf ekki að nota allt
    gifsið. Leyfið blöndunni að bíða og draga í sig vatn í um 2-5
    mínútur. Hrærið gifsið með hanskaklæddri hendi í a.m.k. mínútu eða
-   þar til blandan er öll jafnþykk. Látið ílátið dunka til að losa um loftbólur.
+   þar til blandan er öll jafnþykk. Látið ílátið dunka til að losa um
+   loftbólur áður en gifsi er hellt.
 5. Berið olíu í mótið. Hægt er að nota t.d. matarolíu. Berið olíu á
    hliðar og ef á að búa til dæld fyrir upphengingar þá þarf að
    olíubera það stykki líka. Þerrið burt umframolíu sem safnast í dældir/fjallstinda.
