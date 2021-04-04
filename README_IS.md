@@ -40,7 +40,7 @@ KLM skrár til að hlaða í [Google Earth web](https://earth.google.com/web/). 
 
 3D líkön eru undirbúin til prentunar í Ultimaker Cura forriti sem er stillt fyrir Crealty Ender Pro þrívíddarprentara. Athugið: Þykkt á toppi og botni hefur verið tvöfölduð úr 0.8mm í 1.6mm. Toppinn þarf að þykkja til að prentarinn ráði við að teikna hæðarlínur. Botninn á afsteypumótum er þykktur til að styrkja hann svo hann afmyndist ekki þegar mótið er losað sundur.
 
-## 3D prentu
+## 3D prentun
 Fyrir afsteypumót getur borgað sig að prenta í hæstu gæðum
 mögulegum. Til dæmis prentar Crealty Ender 3 Pro prentarinn venjulega
 í 0,2mm upplausn, en í hæstu gæðum prentar hann í 0,12mm upplausn. Það
@@ -55,9 +55,9 @@ sem er gert úr myndgögnum frá DigitalGlobe, Inc. og kostað af "National
 Science Foundation awards 1043681, 1559691, 1542736". Hæðarlíkanið var lagfært handvirkt til að fjarlægja villur og göt
 í gögnunum.
 
-STL skrár voru búnar til í QGIS forritinu með DEMto3D viðbót. Sneiðing
+STL skrár voru búnar til í [QGIS](https://qgis.org) forritinu með DEMto3D viðbót. Sneiðing
 á STL skrám og speglun á viðsnúnum kortum var gerð í [Ultimaker
-Cura](https://ultimaker.com/software/ultimaker-cura). Súkkulaðimót voru búin til í Blender forritinu.
+Cura](https://ultimaker.com/software/ultimaker-cura). Súkkulaðimót voru búin til í [Blender](https://www.blender.org/) forritinu.
 
 Sjá [Credits.md](Credits.md).
 
