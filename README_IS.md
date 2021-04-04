@@ -42,7 +42,7 @@ KLM skrár til að hlaða í [Google Earth web](https://earth.google.com/web/). 
 
 ## 3D prentun
 Fyrir súkkulaðimót getur borgað sig að prenta í hæstu gæðum
-mögulegum. [Crealty Ender 3 Pro](https://www.creality3dofficial.com/collections/ender-series/products/creality-ender-3-pro-3d-printer) prentar venjulega
+mögulegum. Prentarinn sem hér er notaður prentar venjulega
 í 0,2mm upplausn, en í hæstu gæðum prentar hann í 0,12mm upplausn. Það
 tekur lengri tíma, en skilar sér í aukinni upplausn og fínni
 hæðarlínum. Fyrir gifsmót prentar 0,2mm upplausn afsteypur með skýrari
@@ -55,9 +55,17 @@ sem er gert úr myndgögnum frá DigitalGlobe, Inc. og kostað af "National
 Science Foundation awards 1043681, 1559691, 1542736". Hæðarlíkanið var lagfært handvirkt til að fjarlægja villur og göt
 í gögnunum.
 
-STL skrár voru búnar til í [QGIS](https://qgis.org) forritinu með [DEMto3D](https://demto3d.com/en/) viðbót. Sneiðing
-á STL skrám og speglun á viðsnúnum kortum var gerð í [Ultimaker
-Cura](https://ultimaker.com/software/ultimaker-cura). Súkkulaðimót voru búin til í [Blender](https://www.blender.org/) forritinu.
+STL skrár voru búnar til í [QGIS](https://qgis.org) forritinu með
+[DEMto3D](https://demto3d.com/en/) viðbót. Sneiðing á STL skrám og
+speglun á viðsnúnum kortum var gerð í [Ultimaker
+Cura](https://ultimaker.com/software/ultimaker-cura). Súkkulaðimót
+voru búin til í [Blender](https://www.blender.org/) forritinu. Prentað
+með 
+[Crealty Ender 3
+Pro](https://www.creality3dofficial.com/collections/ender-series/products/creality-ender-3-pro-3d-printer).
+
+
+
 
 Sjá [Credits.md](Credits.md).
 

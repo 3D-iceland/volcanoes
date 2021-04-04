@@ -42,8 +42,8 @@ KLM files for loading into [Google Earth](https://earth.google.com/web/). Files 
 
 ## 3D printing
 For chocolate molds it may be worth it to print at
-highest resolution possible. [Crealty Ender 3 Pro](https://www.creality3dofficial.com/collections/ender-series/products/creality-ender-3-pro-3d-printer) printer
-normal print quality is 0.2mm resolution, but at highest print quality
+highest resolution possible. The printer used here has
+normal print quality of 0.2mm resolution, but at highest print quality
 the resolution is 0.12mm, resulting in increased detail and finer
 elevation lines. However, molds for plaster printed at 0.2mm produce starker detail
 and more defined shadows.
@@ -54,7 +54,8 @@ and more defined shadows.
 The Digital Elevation Model used here is based on the ArcticDEM dataset created from DigitalGlobe, Inc., imagery and funded under National Science Foundation awards 1043681, 1559691, and 1542736. The DEM was manually adjusted to remove errors and gaps in the data. 
 
 STL files were created using [QGIS](https://qgis.org) software utilising the [DEMto3D](https://demto3d.com/en/) plugin. Slicing of 3D maps and mirroring of the inverted relief maps were realised in [Ultimaker
-Cura](https://ultimaker.com/software/ultimaker-cura). Chocolate molds were created using [Blender](https://www.blender.org/).
+Cura](https://ultimaker.com/software/ultimaker-cura). Chocolate molds
+were created using [Blender](https://www.blender.org/). 3D printer [Crealty Ender 3 Pro](https://www.creality3dofficial.com/collections/ender-series/products/creality-ender-3-pro-3d-printer).
 
 See [Credits.md](Credits.md) file.
 
