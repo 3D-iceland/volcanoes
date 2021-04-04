@@ -56,8 +56,8 @@ Science Foundation awards 1043681, 1559691, 1542736". Hæðarlíkanið var lagf�
 í gögnunum.
 
 STL skrár voru búnar til í QGIS forritinu með DEMto3D viðbót. Sneiðing
-á STL skrám og speglun á viðsnúnum kortum var gerð í Ultimaker
-Cura. Súkkulaðimót voru búin til í Blender forritinu.
+á STL skrám og speglun á viðsnúnum kortum var gerð í [Ultimaker
+Cura](https://ultimaker.com/software/ultimaker-cura). Súkkulaðimót voru búin til í Blender forritinu.
 
 Sjá [Credits.md](Credits.md).
 
