@@ -22,7 +22,7 @@ STL skrár til að 3D prenta ca. 15 x 15 cm upphleypt kort með mismikilli
 
 STL skrár til að 3D prenta mót og fylgihluti til að búa til gifsafsteypur ca. 15cm x 15 cm að stærð. Skrár og leiðbeiningar í [Molds_for_plaster_casting](Molds_for_plaster_casting/) möppu. [YouTube video](http://www.youtube.com/watch?v=xSu4fhIfEEE) hér fyrir neðan.
 
-[![](http://img.youtube.com/vi/xSu4fhIfEEE/0.jpg)](http://www.youtube.com/watch?v=xSu4fhIfEEE "Timelapse of plaster casting Fagradalsfjall")
+[![](images/youtube01.jpg)](http://www.youtube.com/watch?v=xSu4fhIfEEE "Timelapse of plaster casting Fagradalsfjall")
 
 
 ## Súkkulaði mót

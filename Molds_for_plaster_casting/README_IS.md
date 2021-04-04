@@ -44,7 +44,7 @@
    það með flötu áhaldi, en það getur skilið eftir sig far.
 10. Hendið hörðnuðu gifsi og þrífið mót í köldu vatni.
 
-[![](http://img.youtube.com/vi/xSu4fhIfEEE/0.jpg)](http://www.youtube.com/watch?v=xSu4fhIfEEE "Timelapse of plaster casting Fagradalsfjall")
+[![](../images/youtube01.jpg)](http://www.youtube.com/watch?v=xSu4fhIfEEE "Timelapse of plaster casting Fagradalsfjall")
 
 
 ## Skrár
