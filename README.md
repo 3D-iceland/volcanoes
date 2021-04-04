@@ -41,12 +41,12 @@ KLM files for loading into [Google Earth](https://earth.google.com/web/). Files 
 3D models are prepared for printing in Ultimaker Cura configured for Crealty Ender Pro printer.  Important: Top and bottom thickness has been doubled from 0.8mm to 1.6mm. Top thickness needs to be increased or else elevation lines may misprint in 3D printer. If making plaster molds, bottom thickness also needs to be increased so the model does not deform when pressed to release from mold frame.
 
 ## 3D printing
-For molds it may be worth it to print at highest resolution
-possible. For example Crealty Ender 3 printer normal print quality is
-0.2mm resolution, but at highest print quality the resolution is
-0.12mm, resulting in increased detail and finer elevation
-lines. However, casts print at 0.2mm produce starker detail and more
-defined shadows.
+For chocolate molds it may be worth it to print at
+highest resolution possible. [Crealty Ender 3](https://www.creality3dofficial.com/collections/ender-series/products/creality-ender-3-pro-3d-printer) printer
+normal print quality is 0.2mm resolution, but at highest print quality
+the resolution is 0.12mm, resulting in increased detail and finer
+elevation lines. However, molds for plaster printed at 0.2mm produce starker detail
+and more defined shadows.
 
 
 ## Credits
