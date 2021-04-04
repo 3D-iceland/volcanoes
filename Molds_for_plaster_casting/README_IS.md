@@ -10,10 +10,10 @@
 ## Leiðbeiningar
 1. Undirbúið allt fyrirfram. Hafið þerripappír við hendina. Athugið
    hvort borðflötur halli.
-2. Setjið mótið saman. Athugið að snúa mótinu þannig að Norður vísi
+2. Setjið mótið saman. Athugið að snúa mótinu þannig að norður vísi
    frá ykkur. Það er einfaldara að steypa með einu kassamóti en
    fjögurra hluta mótinu. Límið mótin saman með málningarlímbandi svo
-   ekki leki.
+   það leki ekki.
 3. Vigtið út vatn og gifs. Notið hanska og grímu. Gifs er mjög fíngert
    duft sem ekki er gott að fá ofan í lungu. Fyrir hvert kíló af vatni
    notið um 1,5kg af gifsi. Þeim mun kaldara sem vatnið er því  lengri
@@ -30,7 +30,7 @@
    þar til blandan er öll jafnþykk. Látið ílátið dunka til að losa um loftbólur.
 5. Berið olíu í mótið. Hægt er að nota t.d. matarolíu. Berið olíu á
    hliðar og ef á að búa til dæld fyrir upphengingar þá þarf að
-   olíubera það stykki líka.
+   olíubera það stykki líka. Þerrið burt umframolíu sem safnast í dældir/fjallstinda.
 6. Hellið gifsblöndunni á einn punkt í mótinu. Lemjið í borð eða mót
    til að losa um loftbólur og láta gifsið dreifast jafnt.
 7. Ef nota á upphengimót leggið það ofan á mótið svo það myndi dæld

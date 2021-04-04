@@ -14,7 +14,10 @@
    than the four part one. Tape the bottom of the mold to prevent leakage.
 3. Weigh out water and plaster. Use gloves and a mask. Plaster is a very fine dust and you do not want to breathe it in. For one kg of water there should be 1.5 kg plaster added. Water should be cold. The colder the water is the more time you have to manipulate the plaster. To fill one mold I use 300g water against 430g plaster. Weigh them out separately.
 4. Pour water into a big enough plastic container, one preferably not too rigid to to make it easier to remove excess plaster once it is hardened. Distribute plaster powder over the surface of water in even thin layers and let it sink. When islands of plaster start to form on the surface the mixture should be thick enough. You do not need to use all the plaster powder. Let the mixture sit for 2-5 minutes, then mix with a gloved hand for about a minute. Using your hands makes for less air bubbles. Mix for a little while until mixture is evenly dense. Knock the container to the table to remove excess air bubbles from mixture.
-5. Oil the form. You can use any cooking oil. Take care to dab excess oil from deep depressions or your mountain peaks will become flat. Oil the sides and also if you plan to make a wall mount depression oil that object too.
+5. Oil the form. You can use any cooking oil. Take care to dab excess
+   oil from deep depressions or your mountain peaks will become
+   flat. Oil the sides and also if you plan to make a wall mount
+   depression oil that object too. 
 6. Pour in a single spot the plaster mixture. Knock the table to let the mixture settle evenly and remove air bubbles.
 7. If you use wall mounts, lay the wall mount depression on top of the mold. Remember to oil it first or it will get stuck.
 8. Wait for 30-60 minutes, until plaster has stopped warming.
