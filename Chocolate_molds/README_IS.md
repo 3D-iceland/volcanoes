@@ -3,7 +3,7 @@
 # Súkkulaðimót
 [English](README.md)
 
-Afsteypumót til að steypa silikon mót fyrir súkkulaði.
+3D prentuð afsteypumót til að steypa silikon mót fyrir súkkulaði.
 
 ### [choco1piece_medium.stl](choco1piece_medium.stl)
 
