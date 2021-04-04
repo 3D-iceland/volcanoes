@@ -1,6 +1,7 @@
 ![](../images/plaster_of_paris_small_medium_b.jpg)
 
 # Gifs afsteypur
+[English](README.md)
 
 - Ekki hella óhörðnuðu gifsi í vaskinn. Hann stíflast.
 - Ekki þrífa 3D prentuð mót í heitu vatni. PLA plast þolir ekki háan
