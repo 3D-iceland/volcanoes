@@ -42,7 +42,7 @@ KLM skrár til að hlaða í [Google Earth web](https://earth.google.com/web/). 
 ## 3D prentun
 Fyrir afsteypumót borgar sig að prenta í hæstu gæðum mögulegum. Til dæmis prentar Crealty Ender 3 Pro prentarinn venjulega í 0,2mm upplausn, en í hæstu gæðum prentar hann í 1,2mm upplausn. Það tekur lengri tíma, en skilar sér í aukinni upplausn og fínni hæðarlínum.
 
-## Credits
+## Þakkir
 
 Stafræna hæðarlíkanið (DEM, Digital Elevation Model) sem notað er hér er byggt á ArcticDEM gagnasettinu
 sem er gert úr myndgögnum frá DigitalGlobe, Inc. og kostað af "National
@@ -53,10 +53,10 @@ STL skrár voru búnar til í QGIS forritinu með DEMto3D viðbót. Sneiðing
 á STL skrám og speglun á viðsnúnum kortum var gerð í Ultimaker
 Cura. Súkkulaðimót voru búin til í Blender forritinu.
 
-Sjá [Credits.md](Credits.md) file.
+Sjá [Credits.md](Credits.md).
 
 
-## Licence
+## Leyfi
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
