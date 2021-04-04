@@ -56,7 +56,7 @@ s.k. gcode skrá.
 Þessi viðsnúnu og spegluðu líkön eru til að búa til afsteypur af svæðum, til dæmis í
 gifs. Líkönin eru öll af sömu stærð og má steypa með tilheyrandi ramma.  
 
-### [Fagradalsfjall_largearea.stl](Fagradalsfjall_largearea_inverted.stl)
+### [Fagradalsfjall_largearea_inverted.stl](Fagradalsfjall_largearea_inverted.stl)
 Viðsnúið upphleypt kort af svæði umhverfis Fagradalsfjall. Svæðið nær
 frá Keili til strandar.  
 Stærð: 146,84mm x 146,84mm    
