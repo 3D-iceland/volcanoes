@@ -55,7 +55,7 @@ sem er gert úr myndgögnum frá DigitalGlobe, Inc. og kostað af "National
 Science Foundation awards 1043681, 1559691, 1542736". Hæðarlíkanið var lagfært handvirkt til að fjarlægja villur og göt
 í gögnunum.
 
-STL skrár voru búnar til í [QGIS](https://qgis.org) forritinu með DEMto3D viðbót. Sneiðing
+STL skrár voru búnar til í [QGIS](https://qgis.org) forritinu með [DEMto3D](https://demto3d.com/en/) viðbót. Sneiðing
 á STL skrám og speglun á viðsnúnum kortum var gerð í [Ultimaker
 Cura](https://ultimaker.com/software/ultimaker-cura). Súkkulaðimót voru búin til í [Blender](https://www.blender.org/) forritinu.
 
