@@ -42,7 +42,7 @@ KLM skrár til að hlaða í [Google Earth web](https://earth.google.com/web/). 
 
 ## 3D prentun
 Fyrir súkkulaðimót getur borgað sig að prenta í hæstu gæðum
-mögulegum. [Crealty Ender 3](https://www.creality3dofficial.com/collections/ender-series/products/creality-ender-3-pro-3d-printer) prentar venjulega
+mögulegum. [Crealty Ender 3 Pro](https://www.creality3dofficial.com/collections/ender-series/products/creality-ender-3-pro-3d-printer) prentar venjulega
 í 0,2mm upplausn, en í hæstu gæðum prentar hann í 0,12mm upplausn. Það
 tekur lengri tíma, en skilar sér í aukinni upplausn og fínni
 hæðarlínum. Fyrir gifsmót prentar 0,2mm upplausn afsteypur með skýrari
