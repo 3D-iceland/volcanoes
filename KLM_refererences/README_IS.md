@@ -1,7 +1,9 @@
-## GoogleEarth overview
-[íslenska](README_IS.md)
+## Google Earth
+[English](README.md)
 
-The following image shows an overview of the three zoom areas created for the Fagradalsfjall eruption site. Each rectange relates to the KML file available for download in this repository to allow an exploration of the area in GoogleEarth and other GIS tools.
+Eftirfarandi mynd sýnir yfirlit yfir mismikla þysjun að gossvæði
+Fagradalsfjalls. Ferningar vísa til KLM skráa sem hægt er að sækja til
+að hlaða í forrit s.s. Google Earth eða QGIS.
 
 ![](../images/Fagradalsfjall_GoogleEarthReference.jpg)
 
@@ -10,12 +12,12 @@ The following image shows an overview of the three zoom areas created for the Fa
 [KLM large areae](Fargradalsfjall_largelarea_GoogleEarthreferenceframe.kml)
 
 
-### Importing KML file into Google Earth
+### KLM skrár lesnar inn í Google Earth
 
-1. Go to klm file on github
-2. Select "raw"
-3. Save file to computer.
-4. Using a web browser, open [Google Earth web](https://earth.google.com/web/).
-5. From menu select "Projects".
-6. Select "Open". "Import KLM file from computer"
-7. Select the KML file you'd like to view.
+1. Farið á github síðu með KLM skrá 
+2. Veljið "raw"
+3. Vistið skrána í tölvunni.
+4. Opnið [Google Earth web](https://earth.google.com/web/)  í vafra.
+5. Úr "Menu" velja "Projects".
+6. Veljið "Open". "Import KLM file from computer"
+7. Veljið KML skrána sem þið viljið skoða.
