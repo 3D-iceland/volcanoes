@@ -1,6 +1,5 @@
-# Volcanoes
 ![](images/eldgos02_b.jpg)
-[íslenska](README_IS.md)
+# Volcanoes
 
 *An volcanic eruption started at 20:45 GMT 19. March 2021 in the Geldingadalir valley at Fagradalsfjall, e. 'Beautiful valley mountain', on the Reykjanes peninsula, South-West Iceland. The eruption is ongoing.*
 
