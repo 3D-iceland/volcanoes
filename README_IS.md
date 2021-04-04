@@ -4,7 +4,7 @@
 *Eldgos hófst kl 20:45, 19. mars 2021 í Geldingadölum Fagradalsfjalls
 á Reykjanesi. Eldgosið stendur enn yfir.*
 
-Þrívíddarmódel af íslenskum eldfjöllum til að búa til upphleypt kort,
+Hér eru þrívíddarmódel af íslenskum eldfjöllum til að búa til upphleypt kort,
 mót fyrir gifsafsteypur og mót fyrir súkkulaði. Öll gögn á þessu svæði
 eru með opnu höfundaleyfi. Þau má nota jafnt til kennslu, einkanota eða í
 ágóðaskyni. Vinsamlegast vísið til þessarar síðu eða Geo-Vis lab
