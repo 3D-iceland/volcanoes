@@ -5,14 +5,14 @@
 
 Molds for casting silicone molds for casting chocolate.
 
-### [choco1piece_medium_fagradalsfjall.stl](choco1piece_medium_fagradalsfjall.stl)
+### [choco1piece_m_fagradalsfjall.stl](choco1piece_m_fagradalsfjall.stl)
 
 Mold for casting silicone mold for casting a single chocolate
 piece. Medium area.  
 Size of print: approx 105mm x 105mm    
 Size of chocolate: approx 86mm x 86mm
 
-[![](../images/choco1piece_medium_fagradalsfjall_stl.png)](choco1piece_medium_fagradalsfjall.stl)
+[![](../images/choco1piece_m_fagradalsfjall_stl.png)](choco1piece_m_fagradalsfjall.stl)
 
 ### [choco_4pieces_fagradalsfjall.stl](choco_4pieces_fagradalsfjall.stl)
 
