@@ -1,6 +1,7 @@
 ![](../images/relief_map_b.jpg)
 
 ## Relief map .stl files
+[íslenska](README_IS.md)
 
 ### [Fagradalsfjall_largearea.stl](Fagradalsfjall_largearea.stl)
 Description: 3D relief map of area around Fagradalsfjall. Area from North of Keilir, past Fagradalsfjall to shoreline.  
