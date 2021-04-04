@@ -50,9 +50,6 @@ Hér fyrir neðan eru lýsingar á STL skrám fyrir 3D prentun. Hlaðið STL
 skránum í sneiðingarforrit, t.d. Ultimaker Cura. Sneiðingarforritið
 býr til prentleiðbeiningar sem eru sértækar fyrir 3D prentarann,
 s.k. gcode skrá.
-
-## Viðsnúin og spegluð líkön
-
 Þessi líkön eru til að búa til afsteypur af svæðum, til dæmis í
 gifs. Líkönin eru öll af sömu stærð og má steypa með tilheyrandi ramma.  
 
