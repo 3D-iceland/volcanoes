@@ -40,8 +40,13 @@ KLM skrár til að hlaða í [Google Earth web](https://earth.google.com/web/). 
 
 3D líkön eru undirbúin til prentunar í Ultimaker Cura forriti sem er stillt fyrir Crealty Ender Pro þrívíddarprentara. Athugið: Þykkt á toppi og botni hefur verið tvöfölduð úr 0.8mm í 1.6mm. Toppinn þarf að þykkja til að prentarinn ráði við að teikna hæðarlínur. Botninn á afsteypumótum er þykktur til að styrkja hann svo hann afmyndist ekki þegar mótið er losað sundur.
 
-## 3D prentun
-Fyrir afsteypumót borgar sig að prenta í hæstu gæðum mögulegum. Til dæmis prentar Crealty Ender 3 Pro prentarinn venjulega í 0,2mm upplausn, en í hæstu gæðum prentar hann í 0,12mm upplausn. Það tekur lengri tíma, en skilar sér í aukinni upplausn og fínni hæðarlínum.
+## 3D prentu
+Fyrir afsteypumót getur borgað sig að prenta í hæstu gæðum
+mögulegum. Til dæmis prentar Crealty Ender 3 Pro prentarinn venjulega
+í 0,2mm upplausn, en í hæstu gæðum prentar hann í 0,12mm upplausn. Það
+tekur lengri tíma, en skilar sér í aukinni upplausn og fínni
+hæðarlínum. En í raun gerir 0,2mm upplausn afsteypur með skýrari
+skugga og skarpari mynd.
 
 ## Tilvísanir
 
