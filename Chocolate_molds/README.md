@@ -1,6 +1,8 @@
 ![](../images/chocolates_b.jpg)
 
 # Chocolate molds
+[íslenska](README_IS.md)
+
 Molds for casting silicone molds for casting chocolate.
 
 ### [choco1piece_medium.stl](choco1piece_medium.stl)
