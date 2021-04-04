@@ -46,9 +46,11 @@ Fyrir afsteypumót borgar sig að prenta í hæstu gæðum mögulegum. Til dæmi
 
 The Digital Elevation Model used here is based on the ArcticDEM dataset created from DigitalGlobe, Inc., imagery and funded under National Science Foundation awards 1043681, 1559691, and 1542736. The DEM was manually adjusted to remove errors and gaps in the data. 
 
-STL files were created using QGIS software utilising the DEMto3D plugin. Slicing of 3D maps and mirroring of the inverted relief maps were realised in Ultimaker Cura. Chocolate molds were created using Blender.
+STL skrár voru búnar til í QGIS forritinu með DEMto3D viðbót. Sneiðing
+á STL skrám og speglun á viðsnúnum kortum var gerð í Ultimaker
+Cura. Súkkulaðimót voru búin til í Blender forritinu.
 
-See [Credits.md](Credits.md) file.
+Sjá [Credits.md](Credits.md) file.
 
 
 ## Licence
