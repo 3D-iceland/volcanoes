@@ -50,7 +50,7 @@ skugga og skarpari mynd.
 
 ## Tilvísanir
 
-Stafræna hæðarlíkanið (DEM, Digital Elevation Model) sem notað er hér er byggt á ArcticDEM gagnasettinu
+Stafræna hæðarlíkanið (DEM, Digital Elevation Model) sem notað er hér er byggt á [ArcticDEM](https://www.pgc.umn.edu/data/arcticdem/) gagnasettinu
 sem er gert úr myndgögnum frá DigitalGlobe, Inc. og kostað af "National
 Science Foundation awards 1043681, 1559691, 1542736". Hæðarlíkanið var lagfært handvirkt til að fjarlægja villur og göt
 í gögnunum.
