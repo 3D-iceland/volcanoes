@@ -64,7 +64,7 @@ Mold frame for casting relief maps. Single piece mold frame. Fits only models 14
 
 
 ### [Mold_frame_4piece.stl](Mold_frame_4piece.stl)
-Mold frame for casting relief maps. Four pieces needed to create a frame.  Fits various sized models. Pieces are fastened together with clamps/clothes pins.
+Mold frame for casting relief maps. Four pieces needed to create a frame.  Fits various sized models. Pieces are fastened together with clamps.
 
 [![](../images/Mold_frame_4piece_stl.png)](Mold_frame_4piece.stl)
 
