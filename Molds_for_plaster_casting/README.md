@@ -28,7 +28,7 @@
 
 
 ## Files
-Below are descriptions of STL files for 3D printing. Load the STL files into a slicer software, for example Ultimaker Cura. The slicer software produces printer specific instructions on creating 3D printed objects, a .gcode file.
+Below are descriptions of STL files for 3D printing. Load the STL files into a slicer software. The slicer software produces printer specific instructions on creating 3D printed objects, a .gcode file.
 These inverted and mirrored models can be used to make casts of the area, for example in plaster of paris. The models are all the same size and can be cast using a single rectangular frame.  
 
 ### [Fagradalsfjall_largearea_inverted.stl](Fagradalsfjall_largearea_inverted.stl)

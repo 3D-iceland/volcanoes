@@ -50,7 +50,7 @@
 
 ## Skrár
 Hér fyrir neðan eru lýsingar á STL skrám fyrir 3D prentun. Hlaðið STL
-skránum í sneiðingarforrit, t.d. Ultimaker Cura. Sneiðingarforritið
+skránum í sneiðingarforrit. Sneiðingarforritið
 býr til prentleiðbeiningar sem eru sértækar fyrir 3D prentarann,
 s.k. gcode skrá.
 Þessi viðsnúnu og spegluðu líkön eru til að búa til afsteypur af svæðum, til dæmis í
