@@ -46,7 +46,7 @@ Fyrir súkkulaðimót getur borgað sig að prenta í hæstu gæðum
 mögulegum. Prentarinn sem hér er notaður prentar venjulega
 í 0,2mm upplausn, í hæstu gæðum prentar hann í 0,12mm upplausn. Það
 tekur lengri tíma, en skilar sér í aukinni upplausn og fínni
-hæðarlínum. Gifsmót prentað í 0,2mm upplausn gerir afsteypu með skýrari
+hæðarlínum. Gifsmót prentað í 0,2mm upplausn gerir samt afsteypu með skýrari
 skugga og skarpari áferð en 0,12mm.
 
 ## Tilvísanir
