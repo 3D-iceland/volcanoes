@@ -38,7 +38,8 @@ KLM files for loading into [Google Earth](https://earth.google.com/web/). Files 
 
 ## Slicing of STL files
 
-3D models are prepared for printing in Ultimaker Cura configured for Crealty Ender Pro printer.  Important: Top and bottom thickness has been doubled from 0.8mm to 1.6mm. Top thickness needs to be increased or else elevation lines may misprint in 3D printer. If making plaster molds, bottom thickness also needs to be increased so the model does not deform when pressed to release from mold frame.
+3D models are prepared for printing in Ultimaker Cura configured for
+Crealty Ender 3 Pro printer.  Important: Top and bottom thickness has been doubled from 0.8mm to 1.6mm. Top thickness needs to be increased or else elevation lines may misprint in 3D printer. If making plaster molds, bottom thickness also needs to be increased so the model does not deform when pressed to release from mold frame.
 
 ## 3D printing
 For chocolate molds it may be worth it to print at

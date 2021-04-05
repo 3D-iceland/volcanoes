@@ -38,7 +38,8 @@ KLM skrár til að hlaða í [Google Earth web](https://earth.google.com/web/). 
 
 ## Sneiðing á STL skrám
 
-3D líkön eru undirbúin til prentunar í Ultimaker Cura forriti sem er stillt fyrir Crealty Ender Pro þrívíddarprentara. Athugið: Þykkt á toppi og botni hefur verið tvöfölduð úr 0.8mm í 1.6mm. Toppinn þarf að þykkja til að prentarinn ráði við að teikna hæðarlínur. Botninn á afsteypumótum er þykktur til að styrkja hann svo hann afmyndist ekki þegar mótið er losað sundur.
+3D líkön eru undirbúin til prentunar í Ultimaker Cura forriti sem er
+stillt fyrir Crealty Ender 3 Pro þrívíddarprentara. Athugið: Þykkt á toppi og botni hefur verið tvöfölduð úr 0.8mm í 1.6mm. Toppinn þarf að þykkja til að prentarinn ráði við að teikna hæðarlínur. Botninn á afsteypumótum er þykktur til að styrkja hann svo hann afmyndist ekki þegar mótið er losað sundur.
 
 ## 3D prentun
 Fyrir súkkulaðimót getur borgað sig að prenta í hæstu gæðum
