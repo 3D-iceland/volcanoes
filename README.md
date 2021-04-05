@@ -58,7 +58,6 @@ STL files were created using [QGIS](https://qgis.org) software utilising the [DE
 Cura](https://ultimaker.com/software/ultimaker-cura). Chocolate molds
 were created using [Blender](https://www.blender.org/). 3D printer [Crealty Ender 3 Pro](https://www.creality3dofficial.com/collections/ender-series/products/creality-ender-3-pro-3d-printer).
 
-See [Credits.md](Credits.md) file.
 
 
 ## Licence
