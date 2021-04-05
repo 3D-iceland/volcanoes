@@ -46,7 +46,7 @@ For chocolate molds it may be worth it to print at
 highest resolution possible. The printer used here has
 normal print quality of 0.2mm resolution, but at highest print quality
 the resolution is 0.12mm, resulting in increased detail and finer
-elevation lines. However, molds for plaster printed at 0.2mm produce starker detail
+elevation lines. However, molds for plaster printed at 0.2mm produce casts with starker detail
 and more defined shadows.
 
 
