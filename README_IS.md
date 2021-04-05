@@ -67,10 +67,6 @@ Pro](https://www.creality3dofficial.com/collections/ender-series/products/creali
 
 
 
-
-Sjá [Credits.md](Credits.md).
-
-
 ## Leyfi
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
