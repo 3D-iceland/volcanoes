@@ -4,7 +4,7 @@
 
 *A volcanic eruption started at 20:45 GMT 19. March 2021 in the Geldingadalir valley at Fagradalsfjall, e. 'Beautiful valley mountain', on the Reykjanes peninsula, South-West Iceland. The eruption is ongoing.*
 
-This repository contains models of Icelandic volcanoes for 3D printing of relief maps, molds for plaster casting and chocolate making. All data in this repository is free to use for educational, personal or commercial purposes. Please attribute either this repository or Geo-Vis lab of University of Iceland.
+This repository contains models of Icelandic volcanoes for 3D printing of relief maps, molds for plaster casting and chocolate making. All data in this repository is free to use for educational, personal or commercial purposes. Please attribute either this repository or GeoVis lab of the University of Iceland.
 
 
 
