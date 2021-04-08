@@ -7,11 +7,10 @@
 - Do not clean 3D printed object in warm water or the PLA plastic will warp/shrink.
 
 
-## Instructions
+## Instruction
 1. Prepare everything beforehand. Have paper towels on hand. Check if table is level.
 2. Assemble the mold. Take note to orient the mold so that North
-   points away from you. The single piece mold is easier to manage
-   than the four part one. Tape the bottom of the mold to prevent leakage.
+   points away from you. Tape the bottom of the mold to prevent leakage.
 3. Weigh out water and plaster. Use gloves and a mask. Plaster is a very fine dust and you do not want to breathe it in. For one kg of water there should be 1.5 kg plaster added. Water should be cold. The colder the water is the more time you have to manipulate the plaster. To fill one mold I use 300g water against 430g plaster. Weigh them out separately.
 4. Pour water into a big enough plastic container, one preferably not too rigid to to make it easier to remove excess plaster once it is hardened. Distribute plaster powder over the surface of water in even thin layers and let it sink. When islands of plaster start to form on the surface the mixture should be thick enough. You do not need to use all the plaster powder. Let the mixture sit for 2-5 minutes, then mix with a gloved hand for about a minute. Using your hands makes for less air bubbles. Mix for a little while until mixture is evenly dense. Knock the container to the table to remove excess air bubbles from mixture.
 5. Oil the form. You can use any cooking oil. Take care to dab excess
