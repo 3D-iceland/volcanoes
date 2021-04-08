@@ -12,11 +12,9 @@
 1. Undirbúið allt fyrirfram. Hafið þerripappír við hendina. Athugið
    hvort borðflötur halli.
 2. Setjið mótið saman. Athugið að snúa mótinu þannig að norður vísi
-   frá ykkur. Það er einfaldara að steypa með einu kassamóti en
-   fjögurra hluta mótinu. Límið mótin saman með málningarlímbandi svo
+   frá ykkur. Límið mótin saman með málningarlímbandi svo
    það leki ekki.
-3. Vigtið út vatn og gifs. Notið hanska og grímu. Gifs er mjög fíngert
-   duft sem ekki er gott að fá ofan í lungu. Fyrir hvert kíló af vatni
+3. Vigtið út vatn og gifs. Notið hanska og grímu. Fyrir hvert kíló af vatni
    notið um 1,5kg af gifsi. Þeim mun kaldara sem vatnið er því  lengri
    tíma hafið þið til að vinna með gifsið áður en það byrjar að
    harðna. Til að fylla eitt mót er passlegt að nota 300g vatn og 430g
